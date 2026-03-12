@@ -10,10 +10,11 @@
 ## Technical Drawing
 <img width="1057" height="697" alt="image" src="https://github.com/user-attachments/assets/55e07db2-a61f-4ae3-b749-7e6c541b00c4" />
 
-
 ## Bill Of Materials
 
 [Uploading Initial_Controller_10_14_PM_Mar_12_2026.csv…]()
+
++ 1 Arduino Uno R3 ~$30
 
 ## Simulation Video
 
